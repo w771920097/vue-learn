@@ -1,0 +1,6 @@
+{
+    "HTTP_STATUS_ERROR": "服务器未正常响应",
+    "REQUEST_TIMEOUT": "请求超时",
+    "TOKEN_EXPIRE": "token校验失效",
+    "RESPONSE_PARSING_FAILED": "reponse解析出错"
+}
